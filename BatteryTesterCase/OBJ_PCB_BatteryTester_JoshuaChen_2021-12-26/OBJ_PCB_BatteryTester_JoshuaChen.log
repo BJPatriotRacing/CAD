@@ -1,0 +1,25 @@
+OBJ translation to Solid Edge
+Date: Sunday,December 26,2021 07:16PM
+Source File:D:\BJHS_Greenpower\Designs_CAD\BatteryTesterCase\OBJ_PCB_BatteryTester_JoshuaChen_2021-12-26\OBJ_PCB_BatteryTester_JoshuaChen.obj
+Author: Unknown
+Organization: Unknown
+Source System: DEX
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+Operating System: Windows 10 Enterprise Edition
+Installed Memory: 15.93 GB
+
+Software Information:
+Parasolid Version: 32.1.222
+PSBodyshop Version: 32.1.94
+OBJ Adapter Version: 5.0.100
+Solid Edge Version: 221.00.03.003 x64
+
+OBJ Import options 
+Split Groups:Off
+Heal Mesh Faults:Off
+Make Base Feature:On
+Enable Logging:On
+
+Translation progress:
